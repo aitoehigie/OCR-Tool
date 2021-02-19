@@ -1,6 +1,6 @@
 # OCR-Tool
 
-OCR-Tool is a Python tool for OCR text extraction
+OCR-Tool is a Python tool for OCR text extraction implemented with FastAPI framework
 
 ## Installation
 
